@@ -14,6 +14,8 @@ export function withSSRAuth<P>(fn: GetServerSideProps<P>): GetServerSideProps{
                 }
             }
         }
+
+        
         try{
             return await fn(ctx)
         } catch (err){
