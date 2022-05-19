@@ -5,10 +5,10 @@
 <br/>
 <br/>
 <br/>
-<h2>Projeto</h2>
-<p>Aplicação feita com sistema de autenticação JWT</p>
+<h2>Project</h2>
+<p>Application made to understand JWT authentication</p>
 
-<h2>Tecnologias</h2>
+<h2>Technologies</h2>
 <ul>
   <li><a href="https://pt-br.reactjs.org/">React</a></li>
   <li><a href="https://nextjs.org/">Next Js</a></li>
